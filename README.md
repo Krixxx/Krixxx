@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krixxx
 - 👀 I’m interested in React Front-End, Java and NodeJS Back-End
-- 🌱 I’m currently learning Redux Toolkit, RTK Query
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me  - www.krix.dev
 
